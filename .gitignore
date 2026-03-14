@@ -1,0 +1,35 @@
+# =========================
+# Node / React
+# =========================
+node_modules/
+build/
+dist/
+.env
+.env.local
+
+# =========================
+# Java / Spring Boot
+# =========================
+target/
+*.log
+*.class
+*.jar
+*.war
+
+# =========================
+# IDE files
+# =========================
+.vscode/
+.idea/
+*.iml
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Secrets
+# =========================
+application-secret.properties
